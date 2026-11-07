@@ -7,3 +7,5 @@ Please read [LICENSE](https://github.com/PowerZairix/windstorm_packs?tab=License
 # Directory
 ### [Texture packs](https://github.com/PowerZairix/windstorm_packs/blob/main/texture_pack/DIRECTORY.md) 
 > [Minimalist Neon Blue UI](https://github.com/PowerZairix/windstorm_packs/blob/main/texture_pack/DIRECTORY.md#texture-packs--minimalist-neon-blue-ui)
+### [Addons]()
+> No resources yet
